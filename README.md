@@ -1,7 +1,7 @@
 # Validations with `form_tag`
 
 ## Objectives
-
+ 
 - Render or redirect based on validation of instance in create/update
 - Prefill in form values based on an instance
 - Print out full error messages based on an invalid instance
@@ -11,7 +11,7 @@
 ## Requirements
 
 ### Validations
-
+ 
 1. Add validations to `Author` such that...
   1. `name` is not blank
   1. `email` is unique
